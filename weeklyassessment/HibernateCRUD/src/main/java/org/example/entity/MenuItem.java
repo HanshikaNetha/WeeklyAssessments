@@ -48,3 +48,4 @@ public class MenuItem {
         this.available = available;
     }
 }
+
